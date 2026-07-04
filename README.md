@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amgadabdelhafez-dbx-mcp-server-badge.png)](https://mseep.ai/app/amgadabdelhafez-dbx-mcp-server)
+
 # dbx-mcp-server
 
 A Model Context Protocol (MCP) server that provides integration with Dropbox, allowing MCP-compatible clients to interact with Dropbox through a set of powerful tools.
